@@ -4,9 +4,9 @@ Meu perfil profissional no GitHub
 
 ## DESCRIÇÃO
 
-Meu nome é Airon, sou estudade de programação com o foco voltado para o Front-end, todo dia aprendendo algo novo.
+Meu nome é Airon, sou estudade de programação com o foco voltado para o Front-end, e todo dia aprendendo algo novo.
 
-🎓Cursando graduação de Análise e Desenvolvimento de Sistemas na Estácio (3/5 semestre)
+🎓Cursando graduação de Análise e Desenvolvimento de Sistemas na Estácio (5/5 semestre)
 
 🤓💻 Estudando o curso Full Stack javascript da OneBitCode🔥🤘
 
